@@ -1,0 +1,68 @@
+= Pivotal Cloud Foundry Workshop
+
+== Schedule
+
+This one day classroom style session will provide developers (and Architects) with experience about Cloud Native Application Architecture and Pivotal Cloud Foundry concepts. The session includes presentations, whiteboarding and demos.
+
+[cols=3*,options=header]
+|===
+|Schedule
+|Presentation 
+|Demo
+
+|9:00 AM - 9:30 AM
+|Introduction and Discovery 
+|
+
+|9:30 AM - 10:00 AM
+|Session 1: Day in the life of Operations
+|
+
+|10:00 AM - 10:15 AM
+|Session 2: PCF Platform Overview
+|
+
+|10:15 AM - 10:45 AM
+|Session 3: OpsManager Overview
+|Demo
+
+|10:45 AM - 11:00 AM
+|Break
+|
+
+|11:00 AM - 11:30 AM
+|Session 3: Bosh Overview
+|
+
+|11:30 AM - 12:00 PM
+|Session 4: Deploying Concourse with Bosh
+|Demo
+
+|12:00 AM - 12:30 PM
+|Session 4: Day Two Operations with BOSH
+|
+
+|12:30 PM - 1:30 PM
+| Lunch Break
+|
+
+|1:30 PM - 2:00 PM
+|Session 5: Pivotal Services Marketplace
+|Demo
+
+|2:00 PM - 2:30 PM
+|Session 6: Deploy a Product with Pipelines
+|Demo
+
+|2:30 PM - 2:45 PM
+|Break
+| 
+
+|3:00 PM - 4:30 PM
+|Session 8: NSX-T
+| 
+
+|4:30 PM - 4:45 PM
+|Wrap up, Q&A
+|
+|===
