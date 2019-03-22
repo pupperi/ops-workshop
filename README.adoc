@@ -31,15 +31,15 @@ This one day classroom style session will provide developers (and Architects) wi
 |
 
 |11:00 AM - 11:30 AM
-|Session 3: Bosh Overview
+|Session 4: Bosh Overview
 |
 
 |11:30 AM - 12:00 PM
-|Session 4: Deploying Concourse with Bosh
+|Session 5: Deploying Concourse with Bosh
 |Demo
 
 |12:00 AM - 12:30 PM
-|Session 4: Day Two Operations with BOSH
+|Session 6: Day Two Operations with BOSH
 |
 
 |12:30 PM - 1:30 PM
@@ -47,14 +47,18 @@ This one day classroom style session will provide developers (and Architects) wi
 |
 
 |1:30 PM - 2:00 PM
-|Session 5: Pivotal Services Marketplace
+|Session 7: Pivotal Services Marketplace
 |Demo
 
 |2:00 PM - 2:30 PM
-|Session 6: Deploy a Product with Pipelines
+|Session 8: Deploy a Product with Pipelines
 |Demo
 
 |2:30 PM - 2:45 PM
+|Session 8: Monitoring the Platform
+|Demo
+
+|2:45 PM - 3:00 PM
 |Break
 | 
 
