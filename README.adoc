@@ -55,7 +55,7 @@ This one day classroom style session will provide developers (and Architects) wi
 |Demo
 
 |2:30 PM - 2:45 PM
-|Session 8: Monitoring the Platform
+|Session 9: Monitoring the Platform
 |Demo
 
 |2:45 PM - 3:00 PM
@@ -63,7 +63,7 @@ This one day classroom style session will provide developers (and Architects) wi
 | 
 
 |3:00 PM - 4:30 PM
-|Session 8: NSX-T
+|Session 10: NSX-T
 | 
 
 |4:30 PM - 4:45 PM
