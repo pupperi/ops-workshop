@@ -35,7 +35,7 @@ This one day classroom style session will provide Operations team (and Architect
 |
 
 |11:30 AM - 12:00 PM
-|Session 5: Deploying Concourse with Bosh
+|Session 5: Bosh Deployment
 |Demo
 
 |12:00 AM - 12:30 PM
