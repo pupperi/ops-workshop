@@ -30,41 +30,41 @@ This one day classroom style session will provide Operations team (and Architect
 |Break
 |
 
-|11:00 AM - 11:30 AM
-|Session 4: Bosh Overview
-|
-
-|11:30 AM - 12:00 PM
-|Session 5: Bosh Deployment
-|Demo
-
-|12:00 AM - 12:30 PM
-|Session 6: Day Two Operations with BOSH
-|
+|11:00 AM - 12:30 PM
+|Session 10: NSX-T
+| 
 
 |12:30 PM - 1:30 PM
 | Lunch Break
 |
 
 |1:30 PM - 2:00 PM
-|Session 7: Pivotal Services Marketplace
-|Demo
+|Session 4: Bosh Overview
+|
 
 |2:00 PM - 2:30 PM
-|Session 8: Deploy a Product with Pipelines
+|Session 5: Bosh Deployment
 |Demo
 
-|2:30 PM - 2:45 PM
-|Session 9: Monitoring the Platform
-|Demo
+|2:30 PM - 3:00 PM
+|Session 6: Day two Operations with BOSH
+|
 
-|2:45 PM - 3:00 PM
+|3:00 PM - 3:15 PM
 |Break
 | 
 
-|3:00 PM - 4:30 PM
-|Session 10: NSX-T
-| 
+|3:15 PM - 3:45 PM
+|Session 7: Pivotal Services Marketplace
+|Demo
+
+|3:45 PM - 4:15 PM
+|Session 8: Deploy a Product with Pipelines
+|Demo
+
+|4:15 PM - 4:30 PM
+|Session 9: Monitoring the Platform
+|Demo
 
 |4:30 PM - 4:45 PM
 |Wrap up, Q&A
