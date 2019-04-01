@@ -31,7 +31,7 @@ This one day classroom style session will provide Operations team (and Architect
 |
 
 |11:00 AM - 12:30 PM
-|Session 10: NSX-T
+|Session 4: NSX-T
 | 
 
 |12:30 PM - 1:30 PM
@@ -39,15 +39,15 @@ This one day classroom style session will provide Operations team (and Architect
 |
 
 |1:30 PM - 2:00 PM
-|Session 4: Bosh Overview
+|Session 5: Bosh Overview
 |
 
 |2:00 PM - 2:30 PM
-|Session 5: Bosh Deployment
+|Session 6: Bosh Deployment
 |Demo
 
 |2:30 PM - 3:00 PM
-|Session 6: Day two Operations with BOSH
+|Session 7: Day two Operations with BOSH
 |
 
 |3:00 PM - 3:15 PM
@@ -55,15 +55,15 @@ This one day classroom style session will provide Operations team (and Architect
 | 
 
 |3:15 PM - 3:45 PM
-|Session 7: Pivotal Services Marketplace
+|Session 8: Pivotal Services Marketplace
 |Demo
 
 |3:45 PM - 4:15 PM
-|Session 8: Deploy a Product with Pipelines
+|Session 9: Deploy a Product with Pipelines
 |Demo
 
 |4:15 PM - 4:30 PM
-|Session 9: Monitoring the Platform
+|Session 10: Monitoring the Platform
 |Demo
 
 |4:30 PM - 4:45 PM
